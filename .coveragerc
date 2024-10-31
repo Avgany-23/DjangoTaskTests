@@ -1,0 +1,2 @@
+[run]
+omit = tests/*, .venv/*, .idea/*, prject/*, manage.py, app/tests.py
